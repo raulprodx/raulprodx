@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raulprodx
 - 👀 I’m interested in everything related to technology and web development.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 :rocket: I’m currently learning HTML, CSS and JavaScript.
 
 
 <!---
